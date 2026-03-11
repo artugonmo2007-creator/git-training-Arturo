@@ -1,3 +1,1 @@
-Esto es una nueva funcionalidad que estoy creando en una rama nueva y las otras lineas no tienen sentido ahora,
-AGM
-Modificando la nueva rama desde IntelliJ
+Ahora estamos en la primera linea del fichero pero en la nueva rama feature
