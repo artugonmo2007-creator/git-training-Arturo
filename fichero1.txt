@@ -1,4 +1,2 @@
-Primera Linea
-Añado mas contenido a mi fichero
-Tercera linea de codigo añadida
-Cuarta linea editada desde IntelliJ
+Esto es una nueva funcionalidad que estoy creando en una rama nueva y las otras lineas no tienen sentido ahora,
+AGM
