@@ -26,7 +26,7 @@ public class Jugador extends IntegrantesEquipo{
     }
 
     /**
-     * Concatena la información básica del integrante con los datos específicos del jugador.
+     * Concatena la  información básica del integrante con los datos específicos del jugador.
      * @return String con la información completa del jugador.
      */
     @Override

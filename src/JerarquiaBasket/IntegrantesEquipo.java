@@ -28,7 +28,7 @@ public class IntegrantesEquipo {
     }
 
     /**
-     * Devuelve una representación en cadena de los datos del integrante.
+     * Devuelve una  representación en cadena de los datos del integrante.
      * @return String con los detalles de: id, nombre, apellidos y edad.
      */
     @Override

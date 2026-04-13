@@ -25,7 +25,7 @@ public class Masajista extends IntegrantesEquipo{
     }
 
     /**
-     * @return String con los detalles académicos y de experiencia del masajista.
+     * @return String con  los detalles académicos y de experiencia del masajista.
      */
     @Override
     public String toString() {

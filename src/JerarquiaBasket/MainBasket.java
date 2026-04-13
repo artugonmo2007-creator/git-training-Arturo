@@ -26,7 +26,7 @@ public class MainBasket {
         integrantes[2]=masajista;
         integrantes[3]=jugador1;
 
-        // Recorrido de la lista y ejecución de métodos
+        // Recorrido  de la lista y ejecución de métodos
         for (int i = 0; i < integrantes.length; i++) {
             System.out.println(integrantes[i].toString());
             integrantes[i].concentrarse();

@@ -22,7 +22,7 @@ public class Entrenador extends IntegrantesEquipo{
     }
 
     /**
-     * @return String que incluye los datos de base y el ID de federación.
+     * @return String que  incluye los datos de base y el ID de federación.
      */
     @Override
     public String toString() {
